@@ -1,0 +1,15 @@
+127.0.0.1 - - [14/Dec/2016:00:41:11 +0100] "GET /Pluciennik/login HTTP/1.1" 200 834 http-bio-8080-exec-1 201
+127.0.0.1 - - [14/Dec/2016:00:41:12 +0100] "GET /Pluciennik/resources/style.css HTTP/1.1" 200 874 http-bio-8080-exec-2 130
+127.0.0.1 - - [14/Dec/2016:00:41:12 +0100] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+192.168.0.138 - - [14/Dec/2016:00:43:16 +0100] "GET /login HTTP/1.1" 404 - http-bio-8080-exec-5 0
+192.168.0.138 - - [14/Dec/2016:00:43:17 +0100] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+192.168.0.138 - - [14/Dec/2016:00:43:41 +0100] "GET /Pluciennik/login HTTP/1.1" 200 834 http-bio-8080-exec-7 9
+192.168.0.138 - - [14/Dec/2016:00:43:42 +0100] "GET /Pluciennik/resources/style.css HTTP/1.1" 200 874 http-bio-8080-exec-9 7
+192.168.0.138 - - [14/Dec/2016:00:43:59 +0100] "GET /Pluciennik/registry HTTP/1.1" 200 825 http-bio-8080-exec-10 36
+192.168.0.138 - - [14/Dec/2016:00:44:00 +0100] "GET /Pluciennik/resources/style.css HTTP/1.1" 200 874 http-bio-8080-exec-10 7
+192.168.0.138 - - [14/Dec/2016:00:44:15 +0100] "POST /Pluciennik/registry HTTP/1.1" 200 103 http-bio-8080-exec-5 1078
+192.168.0.187 - - [14/Dec/2016:08:34:19 +0100] "GET /Pluciennik/registry HTTP/1.1" 200 825 http-bio-8080-exec-9 129
+192.168.0.187 - - [14/Dec/2016:08:35:13 +0100] "GET /Pluciennik/resources/style.css HTTP/1.1" 200 874 http-bio-8080-exec-9 44
+192.168.0.187 - - [14/Dec/2016:08:35:14 +0100] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-9 0
+192.168.0.187 - - [14/Dec/2016:08:35:33 +0100] "POST /Pluciennik/registry HTTP/1.1" 200 103 http-bio-8080-exec-9 1482
+192.168.0.187 - - [14/Dec/2016:08:35:33 +0100] "POST /Pluciennik/registry HTTP/1.1" 200 92 http-bio-8080-exec-1 343

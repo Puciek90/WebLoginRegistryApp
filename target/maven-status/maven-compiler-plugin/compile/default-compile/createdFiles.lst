@@ -1,0 +1,15 @@
+jdbcAuthentication/foo/service/WebUserService.class
+jdbcAuthentication/foo/model/WebUser.class
+jdbcAuthentication/conf/servlet/Initializer.class
+jdbcAuthentication/foo/model/Roles.class
+jdbcAuthentication/conf/servlet/SecurityWebbInitializer.class
+jdbcAuthentication/foo/service/WebUserServiceImpl.class
+jdbcAuthentication/foo/controller/FormController.class
+jdbcAuthentication/foo/dao/WebWebUserDaoImpl.class
+jdbcAuthentication/conf/datasource/DataSourceConfig.class
+jdbcAuthentication/conf/servlet/ServletConfiguration.class
+jdbcAuthentication/conf/root/RootConfig.class
+jdbcAuthentication/foo/dao/WebUserDao.class
+jdbcAuthentication/conf/servlet/SecurityConfig.class
+jdbcAuthentication/foo/dao/AbstractDAO.class
+jdbcAuthentication/conf/servlet/SuccessHandler.class

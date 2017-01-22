@@ -1,0 +1,6 @@
+Fetch type - jak poprawnie napisać kod, aby FetchType.LAZY było wykonywanie poprawnie?
+    Przykładem gdzie jest to przeszkodą może być test UserDAO w teście shouldGetUserFromDatabase
+    gdzie test nie przechodzi gdy LAZY jest ustwione
+
+    PersistentBag -> jak to porównać z obkiektem stworzonym przeze mnie? czy mozna porównywać stworzony obiekt przeze
+    mnie (lista) z persistentBag?

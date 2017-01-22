@@ -1,0 +1,12 @@
+127.0.0.1 - - [29/Nov/2016:22:46:28 +0100] "GET /Pluciennik/login HTTP/1.1" 500 12965 http-bio-8080-exec-1 2164
+127.0.0.1 - - [29/Nov/2016:22:57:43 +0100] "GET /Pluciennik/login HTTP/1.1" 500 14901 http-bio-8080-exec-1 237
+127.0.0.1 - - [29/Nov/2016:23:00:23 +0100] "GET /Pluciennik/login HTTP/1.1" 500 12965 http-bio-8080-exec-1 319
+127.0.0.1 - - [29/Nov/2016:23:14:53 +0100] "GET /Pluciennik/login HTTP/1.1" 200 469 http-bio-8080-exec-1 2845
+127.0.0.1 - - [29/Nov/2016:23:23:34 +0100] "POST /Pluciennik/login HTTP/1.1" 200 171 http-bio-8080-exec-3 8925
+127.0.0.1 - - [29/Nov/2016:23:23:40 +0100] "GET /Pluciennik/login HTTP/1.1" 200 469 http-bio-8080-exec-4 4
+127.0.0.1 - - [29/Nov/2016:23:24:22 +0100] "GET /Pluciennik/registry HTTP/1.1" 200 484 http-bio-8080-exec-5 700
+127.0.0.1 - - [29/Nov/2016:23:24:37 +0100] "POST /Pluciennik/registry HTTP/1.1" 500 10985 http-bio-8080-exec-6 718
+127.0.0.1 - - [29/Nov/2016:23:42:33 +0100] "GET /Pluciennik/login HTTP/1.1" 200 469 http-bio-8080-exec-1 767
+127.0.0.1 - - [29/Nov/2016:23:43:08 +0100] "GET /Pluciennik/registry HTTP/1.1" 200 484 http-bio-8080-exec-2 49
+127.0.0.1 - - [29/Nov/2016:23:44:06 +0100] "POST /Pluciennik/registry HTTP/1.1" 500 11685 http-bio-8080-exec-3 765
+127.0.0.1 - - [29/Nov/2016:23:53:06 +0100] "POST /Pluciennik/registry HTTP/1.1" 500 11685 http-bio-8080-exec-1 210
